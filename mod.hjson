@@ -1,0 +1,12 @@
+name: companion-cube-unloader
+displayName: "Companion Unloader"
+subtitle: "CC-U"
+description: "A texture pack that makes the unloader a companion cube.
+
+Turns the unloader to a companion cube from portal."
+author: "GMug & Kanj"
+repo: "GMugXD/qw-mod"
+minGameVersion: 143
+version: 1
+hideBrowser: false
+hidden: true
